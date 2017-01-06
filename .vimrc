@@ -55,7 +55,7 @@ set formatoptions-=c formatoptions-=r formatoptions-=o
 imap jk <Esc>
 
 let mapleader = " "
-map <Leader>f :Lack -i 
+map <Leader>f :LAck -i 
 map <Leader>e :e **/
 map <Leader>E :E<CR>
 map <Leader>t :tabnew<Return>
