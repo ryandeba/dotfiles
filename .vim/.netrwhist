@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/ckeditor4.4.7/plugins/EMFLSurveys'
+let g:netrw_dirhist_2='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/content/surveys/design'
+let g:netrw_dirhist_3='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/ckeditor4.4.7/plugins/emflcaptcha'
+let g:netrw_dirhist_4='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/ckeditor4.4.7/plugins'
+let g:netrw_dirhist_5='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/ckeditor4.4.7/plugins/EMFLCaptcha'
+let g:netrw_dirhist_6='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/ckeditor4.4.7/plugins/EMFLCaptcha/dialogs'
+let g:netrw_dirhist_7='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/cfc/pages'
+let g:netrw_dirhist_8='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes/cfc'
+let g:netrw_dirhist_9='/cygdrive/c/Users/rdeba/websites/emailer.emfluence.com/includes'
