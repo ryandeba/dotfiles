@@ -1,0 +1,10 @@
+--ignore-dir=node_modules
+--ignore-dir=WEB-INF
+--ignore-dir=logs
+--ignore-dir=dist
+--ignore-dir=.sass-cache
+--ignore-dir=.git
+--ignore-dir=.github
+
+--ignore-file=ext:json
+--ignore-file=ext:config
